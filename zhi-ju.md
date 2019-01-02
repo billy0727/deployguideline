@@ -2,7 +2,7 @@
 description: Server與智慧床墊之間的無線傳輸距離
 ---
 
-# 佈置距離
+# 1.1 佈置距離
 
 1. 無阻礙直線距離：Server == Node =&gt; 20m \(LQI約120\)
 2. 單一轉角距離：Server == Node =&gt; 15m \(LQI約120\)
