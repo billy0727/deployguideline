@@ -12,19 +12,19 @@ description: 在這一節，會說明三種常見的伺服器與收發器/中繼
 
 如果伺服器與安裝智慧墊的病床，相對位置趨向直線時，收訊距離可達**20公尺**。
 
-![](.gitbook/assets/zhi-xian-shou-xun.png)
+![](../.gitbook/assets/zhi-xian-shou-xun.png)
 
 ## 單一轉角距離
 
 如果伺服器與安裝智慧墊的病床，相對位置為L型，且中間牆壁為水泥或金屬阻隔，收訊距離可達**15公尺**。
 
-![](.gitbook/assets/l-shou-xun%20%281%29.png)
+![](../.gitbook/assets/l-shou-xun%20%281%29.png)
 
 ## 雙轉角距離
 
 如果伺服器與安裝智慧墊的病床，相信位置為U型，且中間牆壁為水泥或金屬阻隔，收訊距離可達**10公尺**。
 
-![](.gitbook/assets/u-shou-xun%20%281%29.png)
+![](../.gitbook/assets/u-shou-xun%20%281%29.png)
 
 ## 超過距離的作法
 
