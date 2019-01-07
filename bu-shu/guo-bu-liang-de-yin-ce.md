@@ -1,5 +1,13 @@
 # 3. 收訊不良的原因及對策
 
+## 有玻璃間隔要縮短安裝距離
+
+如果安裝伺服器的護理站，與病區間有玻璃完全間隔，安裝距離需縮短為建議值的**1/2**。\([伺服器與智慧墊的安裝距離](https://billy0727.gitbook.io/guideline/~/edit/drafts/-LVGNiMc0LLwhUULwlYP/zhi-ju)\)
+
+![](../.gitbook/assets/bo-li-zu-ge.jpg)
+
+
+
 ### 伺服器與智慧墊距離太遠
 
 * 將智慧墊的訊號收發器天線更換成5dB。
