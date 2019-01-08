@@ -16,6 +16,11 @@
 
 ## 安裝
 
-* [Untitled](an-zhuang/untitled.md)
-* [中繼器安裝](an-zhuang/zhong-qi-an.md)
+* [0. 安裝順序](an-zhuang/0.-an-xu.md)
+* [1. 伺服器](an-zhuang/untitled.md)
+* [2. 智慧墊](an-zhuang/2.-zhi-hui.md)
+* [3. 訊號收發器](an-zhuang/3.-shou-qi.md)
+* [4. 告警解除鈕含指示燈](an-zhuang/4.-gao-jing-jie-chu-han-zhi-shi.md)
+* [5. 離床照明燈](an-zhuang/5.-chuang-zhao-ming.md)
+* [6. 中繼器安裝\(非必須\)](an-zhuang/zhong-qi-an.md)
 
