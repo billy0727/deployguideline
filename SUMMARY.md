@@ -17,4 +17,5 @@
 ## 安裝
 
 * [Untitled](an-zhuang/untitled.md)
+* [中繼器安裝](an-zhuang/zhong-qi-an.md)
 

@@ -2,7 +2,7 @@
 
 ## 有玻璃間隔要縮短安裝距離
 
-如果安裝伺服器的護理站，與病區間有玻璃完全間隔，安裝距離需縮短為建議值的**1/2**。\([伺服器與智慧墊的安裝距離](https://billy0727.gitbook.io/guideline/~/edit/drafts/-LVGNiMc0LLwhUULwlYP/zhi-ju)\)
+如果安裝伺服器的護理站，與病區間有玻璃完全間隔，安裝距離需縮短為建議值的**1/2**。\([伺服器與智慧墊的安裝距離](zhi-ju.md)\)
 
 ![](../.gitbook/assets/bo-li-zu-ge.jpg)
 
