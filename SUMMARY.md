@@ -1,7 +1,7 @@
 # Table of contents
 
 * [關於這份指南](README.md)
-* [快速安裝確認清單](kuai-su-an-qing.md)
+* [安裝佈署快速確認](kuai-su-an-qing.md)
 * [確認是否連線成功](shi-fou-cheng-gong.md)
 * [問題排除](pai-chu.md)
 
