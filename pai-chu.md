@@ -7,9 +7,30 @@
 3. 變壓器電源與電源線連接是否鬆脫或接觸不良？
 4. 插座是否有電？或者延長線開關是否開啟？
 
-## 訊號收發器交流Have you had a chance to answer the previous question?
+## 訊號收發器
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+### 交流指示燈沒有亮?
+
+1. 是否有插電？
+2. 插座是否有電？或者延長線開關是否開啟？
+3. 訊號收發器與電源線連接是否鬆脫或接觸不良？
+
+### 電源開關指示燈沒有亮？
+
+1. 交流電源指示燈是否有亮？\(若沒有亮，請參閱上方說明\) 
+2. 電源開關是否有按下？
+
+### 智慧感測床墊狀態燈恆亮或閃爍？
+
+1. 感測床墊訊號線是否連接訊號收發器？
+
+### 連線指示燈閃爍或熄滅？
+
+1. 確認監測伺服器電源是否開啟？
+2. 確認訊號收發器電源是否開啟？
+3. 將伺服器天線更換成5dB天線。
+4. 加入訊號中繼器。
+5. 重新設定收訊頻道，避免現場wifi干擾。
 
 
 
