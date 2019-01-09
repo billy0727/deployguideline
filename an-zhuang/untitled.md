@@ -2,7 +2,7 @@
 
 安裝伺服器天線，手轉方式轉緊即可，共有三支天線。
 
-![](../.gitbook/assets/image%20%2837%29.png) ![](../.gitbook/assets/image%20%2812%29.png) 
+![](../.gitbook/assets/image%20%2840%29.png) ![](../.gitbook/assets/image%20%2812%29.png) 
 
 插入電源線並轉緊
 

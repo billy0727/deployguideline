@@ -3,6 +3,8 @@
 * [關於這份指南](README.md)
 * [快速安裝確認清單](kuai-su-an-qing.md)
 * [開始安裝前](zhi-hui-zhao-xi-bao-han-shen.md)
+* [確認是否連線成功](shi-fou-cheng-gong.md)
+* [問題排除](pai-chu.md)
 
 ## 佈署
 
