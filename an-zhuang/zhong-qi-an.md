@@ -4,5 +4,5 @@
 
 通常中繼器安裝在伺服器與[智慧墊](../kuai-su-an-qing.md)相對位置之間的走廊上，為了方便安裝，以走廊上現有的插座為優先撰擇。
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 

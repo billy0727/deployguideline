@@ -2,7 +2,7 @@
 
 * [關於這份指南](README.md)
 * [快速安裝確認清單](kuai-su-an-qing.md)
-* [智慧照護系統包含什麼](zhi-hui-zhao-xi-bao-han-shen.md)
+* [開始安裝前](zhi-hui-zhao-xi-bao-han-shen.md)
 
 ## 佈署
 
@@ -23,4 +23,12 @@
 * [4. 告警解除鈕含指示燈](an-zhuang/4.-gao-jing-jie-chu-han-zhi-shi.md)
 * [5. 離床照明燈](an-zhuang/5.-chuang-zhao-ming.md)
 * [6. 中繼器安裝\(非必須\)](an-zhuang/zhong-qi-an.md)
+
+## 設定
+
+* [1. 建立場域資料](ding/1.-jian-li-yu-liao.md)
+* [2. 建立床號](ding/2.-jian-li-chuang.md)
+* [3. 匯入設備資料](ding/3.-ru-liao.md)
+* [4. 配置智慧墊](ding/4.-pei-zhi-zhi-hui.md)
+* [5. 系統設定](ding/5.-xi-ding.md)
 
