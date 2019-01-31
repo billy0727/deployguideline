@@ -27,9 +27,10 @@
 
 ## 設定
 
+* [0. 設定說明](ding/0.-ding-ming.md)
 * [1. 建立場域資料](ding/1.-jian-li-yu-liao.md)
-* [2. 建立床號](ding/2.-jian-li-chuang.md)
-* [3. 匯入設備資料](ding/3.-ru-liao.md)
-* [4. 配置智慧墊](ding/4.-pei-zhi-zhi-hui.md)
+* [2. 匯入設備資料](ding/3.-ru-liao.md)
+* [3. 增加受護者](ding/3.-zeng-jia-shou-zhe.md)
+* [4. 分配智慧墊](ding/4.-pei-zhi-zhi-hui.md)
 * [5. 系統設定](ding/5.-xi-ding.md)
 
